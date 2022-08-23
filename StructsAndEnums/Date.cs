@@ -1,8 +1,6 @@
-﻿using System;
-
-namespace StructsAndEnums
+﻿namespace StructsAndEnums
 {
-    class Date
+    struct Date
     {
         private int year;
         private Month month;
